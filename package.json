@@ -1,0 +1,23 @@
+{
+  "name": "airtable-business-hours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samjeffcoat/airtable-business-hours.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samjeffcoat/airtable-business-hours/issues"
+  },
+  "homepage": "https://github.com/samjeffcoat/airtable-business-hours#readme",
+  "dependencies": {
+    "airtable": "^0.11.1"
+  }
+}
